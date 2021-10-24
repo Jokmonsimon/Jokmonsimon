@@ -1,5 +1,5 @@
 # Ojok Simon Peter
-## Software Engineer from Gulu, Uganda
+## Founder, CEO, Software Engineer & Researcher @ JokCode Technology & Consultants
 
 
 <!---
