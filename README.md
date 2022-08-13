@@ -1,7 +1,7 @@
-# Ojok Simon Peter
-## Security Officer | ICT Instructor & Consultant | Junior Software Engineer | Founder & CEO, Yearn AI
+# Afande Ojok
+## Full stack Developer | ICT Instructor & Consultant | Security Officer | CEO & Founder, Yearn AI
 
-I founded Yearn AI on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa. The company is picking up momentum slowly.
+I founded Yearn AI on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa. I have dedicated all my life to develop the company to solve complex problems in this world.
 
 ## Projects
 ### Mindset Change for Young Africans
