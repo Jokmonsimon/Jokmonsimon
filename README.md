@@ -4,7 +4,7 @@
 I founded Yearn AI on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa. I have dedicated all my life to develop the company to solve complex problems in this world.
 
 ## Portfolio Website
-[Portfolio](https://afandeojok.tech/)
+[Click Here to see my Portfolio](https://afandeojok.tech/)
 
 ## Projects
 ### Mindset Change for Young Africans
