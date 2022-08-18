@@ -1,10 +1,10 @@
 # Afande Ojok
 ## Snr. Software Engineer | CEO & Founder, Yearn AI
 
-I founded Yearn AI on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa. I have dedicated all my life to develop the company to solve complex problems in this world.
+I founded Yearn AI on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa. Yearn AI will achieve this mission by providing a data-centric, end-to-end solution to manage the entire Machine Learning lifecycle.
 
-## Portfolio Website
-#### [Click Here to see my Portfolio](https://afandeojok.tech/)
+# Portfolio Website
+## [Afande Ojok Portfolio](https://afandeojok.tech/)
 
 ## Projects
 ### Mindset Change for Young Africans
