@@ -1,4 +1,4 @@
-# [Ojok Simon Peter](https://afandeojok.tech/)
+# [Afande Ojok](https://afandeojok.tech/)
 ## Snr. Software Engineer, Researcher & Founder at Yearn AI
 
 Hello, I am Ojok Simon Peter from Gulu, Uganda. Am passionate about Machine Learning and AI technologies. Am a Software Engineer, Researcher & Founder at Yearn AI. Yearn AI is a small company I founded on 23 September 2021 with a mission of accelerating the development of artificial intelligence in Africa by providing a data-centric, end-to-end solution to manage the entire Machine Learning Lifecycle. I love “Doing Hard Things” to solve complex problems in this world. Therefore, I am constantly learning! And Failure is my tallest ladder to success! Skillswise, I am a Python and JavaScript Developer specializing in Machine Learning and AI technologies. I am looking for a company where I can Learn, Develop and Apply my knowledge.
