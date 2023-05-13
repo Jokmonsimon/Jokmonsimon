@@ -1,5 +1,5 @@
 # [Ojok Simon Peter](https://afandeojok.tech/)
-## IT Office, Cycle Connect; Software Engineer, Researcher & Founder, Yearn AI Africa & Mindset Change For Young Africans Project
+## IT Officer, Cycle Connect; Software Engineer, Researcher & Founder, Yearn AI Africa & Mindset Change For Young Africans Project
 
 Hello! Welcome to my GitHub profile. Here's a bit about me and my professional journey:
 
