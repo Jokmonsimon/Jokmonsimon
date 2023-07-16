@@ -47,6 +47,27 @@ Experienced Lead Instructor, Team Lead & Software Engineer with a strong passion
 - Follow industry best practices, coding standards, and software development methodologies. This includes using version control systems, documenting code and processes, and adhering to security and privacy guidelines.
 - Explore new ideas, propose improvements, and contribute to the development of innovative solutions that drive the company's goals.
 
+### Founder, Yearn AI Africa
+#### Main Duties and Responsibilities
+- Responsible for setting the vision and strategic direction of Yearn AI Africa. 
+- Define the long-term goals and objectives of the company, aligning them with the mission of accelerating the development of artificial intelligence in Africa. 
+- Develop strategies to achieve growth, impact, and sustainability.
+- Provide leadership and management to the company. 
+- Oversee the operations, finances, and overall performance of Yearn AI Africa.
+- Drive business development efforts to expand the reach and impact of Yearn AI Africa. 
+- Build relationships with stakeholders, including industry leaders, educational institutions, and government entities.
+- Lead the development of educational programs, initiatives, and projects that align with Yearn AI Africa’s mission.
+- Recruit and build a talented team, providing guidance, support, and mentorship to team members. 
+- Foster a positive work culture, promote collaboration, and empower team members to contribute to the company's growth and success.
+- Actively engage in networking and advocacy activities to promote the company's mission and initiatives. 
+- Advocate for the importance of AI development in Africa and strive to build strong relationships with key stakeholders.
+- Foster a sense of community and engagement within the AI and tech ecosystem in Africa. 
+- Assess the impact and effectiveness of Yearn AI Africa's initiatives and programs. 
+- Establish metrics and evaluation processes to measure outcomes and make data-driven decisions. 
+- Prepare reports and communicate the company's achievements, challenges, and future plans to stakeholders.
+- Stay updated with the latest trends, research, and advancements in the field of AI. 
+- Engage in continuous learning and professional development to enhance knowledge and skills to lead the company effectively and stay at the forefront of AI innovation.
+
 <!---
 Jokmonsimon/Jokmonsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
