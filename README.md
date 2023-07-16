@@ -1,5 +1,4 @@
 # [Ojok Simon Peter](https://afandeojok.tech/)
-## IT Officer, Cycle Connect; Software Engineer, Researcher & Founder, Yearn AI Africa & Mindset Change For Young Africans Project
 
 Experienced Lead Instructor, Team Lead & Software Engineer with a strong passion for AI and a track record of success in leading and managing software development teams. Skilled in providing technical expertise, guiding projects from inception to completion, and fostering a collaborative and productive team culture. Proven ability to deliver high-quality results, improve efficiency, and drive innovation. Lead Instructor and Founder at Yearn AI Africa, dedicated to accelerating the development of artificial intelligence in Africa. Strong commitment to continuous learning and professional growth. Seeking opportunities to utilize my leadership, technical, and mentoring skills to contribute to impactful projects in the field of AI.
 
